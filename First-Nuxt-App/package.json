@@ -1,0 +1,17 @@
+{
+  "name": "First-Nuxt-App",
+  "version": "1.0.0",
+  "description": "First Part of learning Nuxtjs",
+  "author": "Jan Justyn Dela Cruz",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
